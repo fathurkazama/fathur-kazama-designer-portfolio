@@ -4,7 +4,7 @@ Website : https://my.fathurkazama.id
 
 # Fathur Kazama's Portfolio Website
 
-![Screenshot Desktop Website](assets/images/demo-desktop.jpg)
+![Screenshot Desktop Website](assets/images/demo-dekstop.jpg)
 
 Website portofolio pribadi yang responsif dan modern untuk menampilkan karya seorang Product Designer. Dibuat dengan HTML, CSS, dan JavaScript murni.
 ## Fitur Utama
