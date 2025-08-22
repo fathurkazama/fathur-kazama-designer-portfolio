@@ -1,5 +1,6 @@
 # Fathur Kazama's Portfolio Website
 Facebook : https://fb.com/fathur.yt.7
+
 Website : https://my.fathurkazama.id
 
 # Fathur Kazama's Portfolio Website
@@ -18,7 +19,7 @@ Website portofolio pribadi yang responsif dan modern untuk menampilkan karya seo
 ## Cara Menggunakan
 
 1.  Clone repositori ini:
-    `git clone https://github.com/username/designer-portfolio-website.git`
+    `git clone https://github.com/fathurkazama/Designer-Portfolio-Professional'
 2.  Buka folder proyek di browser:
     `index.html`
 
